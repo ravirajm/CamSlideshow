@@ -1,0 +1,9 @@
+Package: me.melkhior.camslideshow
+Name: CamSlideshow
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: launch camera app and not slideshow
+Maintainer: Ron Melkhior
+Author: Ron Melkhior
+Section: Tweaks
